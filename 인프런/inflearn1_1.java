@@ -10,6 +10,7 @@ public class inflearn1_1 {
         int answer=solution(str,a);
         System.out.println(answer);
         return ;
+        
 	}
     public static int solution(String str,String a) {
         int answer = 0;
