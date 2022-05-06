@@ -6,10 +6,10 @@ public class math_study {
         solution(n);
     }
     static int solution(int n) {
-        int []arr=new int[n/2+1];
+        int []arr=new int[n/2];
         int answer = 1;
         for(int i=0;i<arr.length;i++){
-            for(int j=i;j<arr.length;j++){
+            for(int j=i;j<arr.length+1;j++){
                 if(arr[i]>=n){
                     break;
                 }
