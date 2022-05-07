@@ -3,17 +3,31 @@ import java.util.*;
 public class k_intern5 {
     public static void main(String args[]){
         int [][]rc={{1, 2, 3,4},{ 5, 6,7,8},{ 9,10,11,12}};
-        String []operations={"ShiftRow", "Rotate", "ShiftRow", "Rotate"};
+        String []operations={"ShiftRow", "ShiftRow", "Rotate", "Rotate"};
         solution(rc, operations);
     }
     static int[][] solution(int[][] rc, String[] operations) {
         int[][] answer = new int[rc.length][rc[0].length];
+        int h=answer.length;
         for(int i=0;i<rc.length;i++){
             for(int j=0;j<rc[0].length;j++){
                 answer[i][j]=rc[i][j];
             }    
         }
         for(int i=0;i<operations.length;i++){
+            boolean check=true;
+            if(operations.length-i>h){
+                for(int j=i;j<h+i;j++){
+                    if(!operations[j].contains("S")){
+                        check=false;
+                        break;
+                    }
+                }
+                if(check){
+                    i+=h-1;
+                    continue;
+                }
+            }
             if(operations[i].equals("Rotate")){
                 int a=answer[1][0];
                 int b=answer[0][answer[0].length-1];
