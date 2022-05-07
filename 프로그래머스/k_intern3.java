@@ -10,9 +10,8 @@ public class k_intern3 {
     static int solution(int alp, int cop, int[][] problems) {
         int answer = 0;
         for(int i=0;i<problems.length;i++){
-            int n_alp=0;
-            int n_cop=0;
             
+
         }
         return answer;
     }
