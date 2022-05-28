@@ -1,0 +1,322 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch swea1210",
+            "request": "launch",
+            "mainClass": "swea.swea1210",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch back1003",
+            "request": "launch",
+            "mainClass": "백준.back1003",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch back1009",
+            "request": "launch",
+            "mainClass": "백준.back1009",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch back1037",
+            "request": "launch",
+            "mainClass": "백준.back1037",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch back10773",
+            "request": "launch",
+            "mainClass": "백준.back10773",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch back10828",
+            "request": "launch",
+            "mainClass": "백준.back10828",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch back11659",
+            "request": "launch",
+            "mainClass": "백준.back11659",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch back1225",
+            "request": "launch",
+            "mainClass": "백준.back1225",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch back1463",
+            "request": "launch",
+            "mainClass": "백준.back1463",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch back15649",
+            "request": "launch",
+            "mainClass": "백준.back15649",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch back18258",
+            "request": "launch",
+            "mainClass": "백준.back18258",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch back1904",
+            "request": "launch",
+            "mainClass": "백준.back1904",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch back1912",
+            "request": "launch",
+            "mainClass": "백준.back1912",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch back2018",
+            "request": "launch",
+            "mainClass": "백준.back2018",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch back2609",
+            "request": "launch",
+            "mainClass": "백준.back2609",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch back9184",
+            "request": "launch",
+            "mainClass": "백준.back9184",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch back9461",
+            "request": "launch",
+            "mainClass": "백준.back9461",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch back_15829",
+            "request": "launch",
+            "mainClass": "백준.back_15829",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch test1",
+            "request": "launch",
+            "mainClass": "백준.test1",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch inflearn1_1",
+            "request": "launch",
+            "mainClass": "인프런.inflearn1_1",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch inflearn1_2",
+            "request": "launch",
+            "mainClass": "인프런.inflearn1_2",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch inflearn1_3",
+            "request": "launch",
+            "mainClass": "인프런.inflearn1_3",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch inflearn1_4",
+            "request": "launch",
+            "mainClass": "인프런.inflearn1_4",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch inflearn1_5",
+            "request": "launch",
+            "mainClass": "인프런.inflearn1_5",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch inflearn1_6",
+            "request": "launch",
+            "mainClass": "인프런.inflearn1_6",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch inflearn1_7",
+            "request": "launch",
+            "mainClass": "인프런.inflearn1_7",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch inflearn1_8",
+            "request": "launch",
+            "mainClass": "인프런.inflearn1_8",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch inflearn1_9",
+            "request": "launch",
+            "mainClass": "인프런.inflearn1_9",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch bracket",
+            "request": "launch",
+            "mainClass": "프로그래머스.bracket",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch crane",
+            "request": "launch",
+            "mainClass": "프로그래머스.crane",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch failure_rate",
+            "request": "launch",
+            "mainClass": "프로그래머스.failure_rate",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch k_intern1",
+            "request": "launch",
+            "mainClass": "프로그래머스.k_intern1",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch k_intern2",
+            "request": "launch",
+            "mainClass": "프로그래머스.k_intern2",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch k_intern3",
+            "request": "launch",
+            "mainClass": "프로그래머스.k_intern3",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch k_intern4",
+            "request": "launch",
+            "mainClass": "프로그래머스.k_intern4",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch k_intern5",
+            "request": "launch",
+            "mainClass": "프로그래머스.k_intern5",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch keypad",
+            "request": "launch",
+            "mainClass": "프로그래머스.keypad",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch math_study",
+            "request": "launch",
+            "mainClass": "프로그래머스.math_study",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch numberword",
+            "request": "launch",
+            "mainClass": "프로그래머스.numberword",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch summer1",
+            "request": "launch",
+            "mainClass": "프로그래머스.summer1",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch summer3",
+            "request": "launch",
+            "mainClass": "프로그래머스.summer3",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch tech1",
+            "request": "launch",
+            "mainClass": "프로그래머스.tech1",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch tech4",
+            "request": "launch",
+            "mainClass": "프로그래머스.tech4",
+            "projectName": "study_a718cb5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch visit",
+            "request": "launch",
+            "mainClass": "프로그래머스.visit",
+            "projectName": "study_a718cb5a"
+        }
+    ]
+}
