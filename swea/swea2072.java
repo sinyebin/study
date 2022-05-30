@@ -8,14 +8,14 @@ public class swea2072 {
 		T=sc.nextInt();
 		for(int test_case = 1; test_case <= T; test_case++)
 		{
-            		int answer=0;
+            int answer=0;
 			for(int i=0;i<10;i++){
-                			int num=sc.nextInt();
-                			if(num%2!=0){
-                    			answer+=num;
-                			}
-           			}
-            	System.out.println("#"+test_case+" "+answer);
+                int num=sc.nextInt();
+                if(num%2!=0){
+                	answer+=num;
+                }
+           	}
+            System.out.println("#"+test_case+" "+answer);
 		}
 	}
 }
