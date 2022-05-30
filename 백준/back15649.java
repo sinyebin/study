@@ -1,3 +1,5 @@
+package 백준;
+
 import java.util.Scanner;
 public class back15649 { 
 	public static int[] arr;
