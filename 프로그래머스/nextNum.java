@@ -15,5 +15,6 @@ public class nextNum{
             answer=common[common.length-1]*r;
         }      
         return answer;
+        
     }
 }
