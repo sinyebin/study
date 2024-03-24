@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class back21736 {
     static int n;
     static int m;
-    static int dx[]={1,0,-1,0};
-    static int dy[]={0,1,0,-1};
+    static int dx[]={-1,1,0,0};
+    static int dy[]={0,0,-1,1};
     static int cnt=0;
     static boolean[][] visit;
     static char campus[][];
@@ -22,7 +22,7 @@ public class back21736 {
             String arr=scanner.nextLine();
             for(int j=0;j<m;j++){
                 campus[i][j]=arr.charAt(j);
-                if(campus[i][j]=='i'){
+                if(campus[i][j]=='I'){
                     x=i;
                     y=j;
              }
